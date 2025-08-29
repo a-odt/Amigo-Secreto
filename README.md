@@ -23,7 +23,7 @@ Projeto desenvolvido como parte do **Challenge Amigo Secreto** do programa ONE (
 - Sortear os pares de amigo secreto de forma aleatória.
 - Interface simples e intuitiva para o usuário.
 
-## Demonstração 
+## Design
 ![imagem](assets/image.png)
 ![bonecos](assets/amigo-secreto.png)
 

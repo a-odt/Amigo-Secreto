@@ -76,7 +76,6 @@ function sortearAmigo() {
   resultado.appendChild(li);
 }
 
-
 function reiniciar() {
   nomes = [];
   document.getElementById("listaAmigos").innerHTML = "";
